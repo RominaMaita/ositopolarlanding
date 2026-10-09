@@ -1,0 +1,11 @@
+{
+  "title": "OsitoPolar",
+  "description": "Monitor and maintain commercial refrigeration equipment with real-time alerts and predictive maintenance, ensuring business continuity and reducing losses.",
+  "robots": {
+    "index": true
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
